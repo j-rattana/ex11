@@ -28,6 +28,11 @@ main {
   font-weight: 200;
 }
 
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
 .container h1 {
   max-width: 470px;
   margin: 100px auto 80px auto;
