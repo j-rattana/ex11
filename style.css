@@ -7,7 +7,8 @@
 body, html {
   font-family: 'Merriweather', serif;
   font-size: 16px;
-  background: linear-gradient(to bottom, #041628 0%, #0A2342 60%, #103a56 100%);
+  background: linear-gradient(rgba(4,22,40,0.8), rgba(16,58,86,0.8)), url('./assets/ocean_background.jpg');
+  background-size: cover;
   color: #fff;
 }
 
@@ -26,6 +27,17 @@ main {
   text-decoration: none;
   font-size: 16px;
   font-weight: 200;
+  padding-right: 14px;
+  border-right: 1px solid #7FDBFF;
+  margin-right: 8px;
+}
+
+.fonts a:last-child {
+  border-right: none;
+}
+
+.fonts a:hover {
+  color: #cceeff;
 }
 
 .container {
