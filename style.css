@@ -58,7 +58,7 @@ main {
   flex-wrap: wrap;
 }
 
-fable {
+.story {
   flex: 2;
   font-size: 18px;
   line-height: 23px;
