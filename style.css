@@ -49,3 +49,32 @@ main {
   font-weight: 300;
   color: #7FDBFF;
 }
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+fable {
+  flex: 2;
+  font-size: 18px;
+  line-height: 23px;
+  font-family: 'Merriweather', sans-serif;
+  color: #cceeff;
+  text-align: left;
+}
+
+.moral {
+  flex: 1;
+  font-weight: 200;
+  font-size: 33px;
+  line-height: 38px;
+  font-family: 'Cinzel Decorative', serif;
+  text-align: right;
+  color: #fff;
+  padding: 20px;
+  border-right: 2px solid #7FDBFF;
+}
