@@ -11,6 +11,12 @@ body, html {
   color: #fff;
 }
 
+main {
+  width: 100%;
+  min-height: 100vh;
+  padding: 60px 0;
+}
+
 .fonts {
   text-align: center;
 }
