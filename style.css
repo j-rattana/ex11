@@ -87,6 +87,7 @@ main {
 
 .moral {
   flex: 1;
+  font-weight: 300;
   font-size: 30px;
   line-height: 38px;
   font-family: 'Merriweather', serif;
