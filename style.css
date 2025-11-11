@@ -14,7 +14,7 @@ body, html {
 main {
   width: 100%;
   min-height: 100vh;
-  padding: 20px 0;
+  padding: 30px 0;
 }
 
 .fonts {
@@ -29,7 +29,7 @@ main {
 }
 
 .container {
-  width: 800px;
+  width: 850px;
   margin: 0 auto;
 }
 
@@ -41,6 +41,7 @@ main {
   font-family: 'Cinzel Decorative', serif;
   text-align: center;
   text-transform: uppercase;
+  padding-bottom: 40px;
   color: #fff;
 }
 
@@ -49,7 +50,7 @@ main {
   line-height: 42px;
   font-family: 'Merriweather', sans-serif;
   letter-spacing: 0.1rem;
-  padding: 9px;
+  padding: 8px;
   display: block;
   font-weight: 300;
   color: #7FDBFF;
@@ -65,7 +66,7 @@ main {
 
 .story {
   flex: 2;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 23px;
   font-family: 'Merriweather', sans-serif;
   color: #cceeff;
@@ -74,11 +75,9 @@ main {
 
 .moral {
   flex: 1;
-  font-weight: 200;
-  font-size: 33px;
+  font-size: 30px;
   line-height: 38px;
-  font-family: 'Cinzel Decorative', serif;
-  font-style: italics;
+  font-family: 'Merriweather', serif;
   text-align: right;
   color: #fff;
   padding: 20px;
