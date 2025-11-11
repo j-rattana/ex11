@@ -10,3 +10,12 @@ body, html {
   background: linear-gradient(to bottom, #041628 0%, #0A2342 60%, #103a56 100%);
   color: #fff;
 }
+
+.fonts {
+  text-align: center;
+}
+
+.fonts a {
+  color: #7FDBFF;
+  text-decoration: none;
+}
