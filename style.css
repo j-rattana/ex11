@@ -14,7 +14,7 @@ body, html {
 main {
   width: 100%;
   min-height: 100vh;
-  padding: 60px 0;
+  padding: 20px 0;
 }
 
 .fonts {
@@ -24,4 +24,28 @@ main {
 .fonts a {
   color: #7FDBFF;
   text-decoration: none;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.container h1 {
+  max-width: 470px;
+  margin: 100px auto 80px auto;
+  font-size: 68px;
+  line-height: 60px;
+  font-family: 'Cinzel Decorative', serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.container h1 span {
+  font-size: 48px;
+  line-height: 42px;
+  font-family: 'Merriweather', sans-serif;
+  letter-spacing: 0.1rem;
+  padding: 9px;
+  display: block;
+  font-weight: 300;
+  color: #7FDBFF;
 }
